@@ -14,4 +14,4 @@ Welcome to the index file for our worldbuilding sessions! Here you will find lin
 
 ## General Topics
 
-- [History](https://www.dropbox.com/s/b7gprn4vkzbx5up/history.md)
+- [History](https://raw.githubusercontent.com/AlexSkylark/aeon-worldbuilding/master/general-topics/history.md)
