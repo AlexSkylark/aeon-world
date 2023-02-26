@@ -30,3 +30,12 @@
 - Military strategy: focused on defense and protection of national interests, but also able to conduct offensive operations if necessary
 - Military intervention: tends to only intervene in conflicts if it directly affects Varennian interests
 - Military alliances: maintains alliances with other powerful nations for mutual defense and strategic interests
+  
+## Transport and logistics structure
+
+- Road and highway system: Varennia has an extensive road and highway system that connects all major cities and towns. These roads and highways are well-maintained and well-marked.
+- River transport: Varennia has several large river ports, which handle a significant amount of cargo transport. These river ports are connected to the road and highway system.
+- Rail network: Varennia has a well-developed rail network that connects all major cities and towns. The rail network is used for passenger transport and carries a significant amount of cargo.
+- Airports: Varennia has several large airports that handle domestic and international flights. The airports are connected to the road and rail network.
+- Logistics centers: Varennia has several strategically located logistics centers equipped with modern technology and equipment, including warehousing and distribution facilities.
+- Airships: Varennia uses airships for air transport, with large airship docks in major cities. Airship routes connect major population centers and military installations. Airships are also used for military logistics, transporting troops, supplies, and equipment to remote regions of the country.
