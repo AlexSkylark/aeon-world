@@ -11,3 +11,8 @@ Welcome to the index file for our worldbuilding sessions! Here you will find lin
 - The cataclysm killed the majority of the world's population and regressed technology to pre-industrial levels
 - Knowledge of magic vanished from the world, along with every country, organization, and related documents or media
 - The world had to rebuild itself from scratch.
+
+  <!-- START auto-update -->
+  <!-- START doctoc -->
+  <!-- END doctoc -->
+  <!-- END auto-update -->

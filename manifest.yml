@@ -1,2 +1,4 @@
 output:
     name: ../aeon-world.md
+    doctoc:
+        title: "Table of Contents"

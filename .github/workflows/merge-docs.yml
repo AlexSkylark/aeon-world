@@ -23,6 +23,8 @@ jobs:
               run: merge-markdown -m input/manifest.yml
             - name: Delete input folder
               run: rm -rf input/
+            - name: Delete linkcheck file
+              run: rm -rf aeon-world.linkcheck.md
             - name: Commit changes
               run: |
                   git config --global user.email "alexskylark@gmail.com"

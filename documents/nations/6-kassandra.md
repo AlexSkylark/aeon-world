@@ -1,4 +1,4 @@
-# Kassandra
+### Kassandra
 
 - Home for a humanoid species with rabbit-like ears
 - Located in the western part of the continent of Accordia
@@ -22,7 +22,7 @@
 - Pariahs lose the ability to do magic
 - Magic has mostly vanished from the world since the cataclysm, except for those who remain within Kassandra and Accordia's Magitek researchers who learned to harness some measure of magical energies using crystals and electronic devices.
 
-## Politics and Government
+#### Politics and Government
 
 - The queen of Kassandra is considered the ultimate authority in all matters of governance, but she is advised by the council of wise women.
 - The council of wise women is made up of representatives from each of the major clans in Kassandra.

@@ -1,4 +1,4 @@
-# Varennia
+### Varennia
 
 - Official Name: Republic of Varennia
 - Location: Northern continent of Othardia
@@ -8,7 +8,7 @@
 - Capital City: Varennia, with art deco architecture and "film noir" atmosphere
 - Public service structure: merit-based civil service system with instances of subversion due to backroom deals and corruption
 
-## Politics and Government
+#### Politics and Government
 
 - Head of state and government: Prime Minister (elected by the Senate)
 - Legislative branch: Senate (members elected through general elections)
@@ -19,7 +19,7 @@
 - Political landscape: backroom deals and corruption can sometimes subvert the merit-based civil service system.
 - In practice, Varennia is led by an elite oligarchy of private business owners who exert pressure over government officials through lobbying and campaign financing
 
-## Military Structure
+#### Military Structure
 
 - Military branches: Varennian Army, Varennian Navy, Varennian Air Force, Varennian Special Forces
 - Conscription: no mandatory military service, but voluntary service is encouraged
@@ -31,7 +31,7 @@
 - Military intervention: tends to only intervene in conflicts if it directly affects Varennian interests
 - Military alliances: maintains alliances with other powerful nations for mutual defense and strategic interests
   
-## Transport and logistics structure
+#### Transport and logistics structure
 
 - Road and highway system: Varennia has an extensive road and highway system that connects all major cities and towns. These roads and highways are well-maintained and well-marked.
 - River transport: Varennia has several large river ports, which handle a significant amount of cargo transport. These river ports are connected to the road and highway system.
