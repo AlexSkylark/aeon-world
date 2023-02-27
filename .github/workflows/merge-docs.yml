@@ -15,7 +15,7 @@ jobs:
                   mkdir -p input/
                   cp -R documents/* input/
                   find input/ -mindepth 2 -type f -exec mv -i '{}' input/ \;
-              name: Copy merge-markdown's manifest to input
+            - name: Copy merge-markdown's manifest to input
               run: cp manifest.yml input/
             - name: Install merge-markdown
               run: npm install -g @knennigtri/merge-markdown
