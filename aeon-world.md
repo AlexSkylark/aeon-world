@@ -23,7 +23,7 @@ Table of Contents
     - [Alexandria](#alexandria)
     - [Kassandra](#kassandra)
     - [Varennia](#varennia)
-- [The History of Aeon](#the-history-of-aeon)
+- [History](#history)
   - [The Survivor's Chronicle.](#the-survivors-chronicle)
   - [Historical Ages](#historical-ages)
     - [The Elder Times](#the-elder-times)
@@ -206,7 +206,7 @@ Table of Contents
 - Logistics centers: Varennia has several strategically located logistics centers equipped with modern technology and equipment, including warehousing and distribution facilities.
 - Airships: Varennia uses airships for air transport, with large airship docks in major cities. Airship routes connect major population centers and military installations. Airships are also used for military logistics, transporting troops, supplies, and equipment to remote regions of the country.
 
-# The History of Aeon
+# History
 
 - The world is known as Aeon, but the reason behind the name is unknown.
 - The oldest documented history of the world dates back to about 900-1000 years ago.
@@ -284,7 +284,7 @@ Table of Contents
 
 # The Great War
 
-- The Great War erupts between Varennia, Alexandria, and Accordia.
+- The Great War erupts between Varennia, Alexandria, and Accordia in 870 kH.
 - Year 1-2: Accordian forces make significant gains in the early stages of the war, using their superior technology and tactics to overwhelm their enemies.
 Alexandria falls under Accordian control.
 - Year 3-5: Varennian and Alexandrian forces struggle to push back against Accordia, despite resistance movements within Alexandria.
