@@ -1,5 +1,6 @@
 ### Alexandria
 
+- Official Name: The Kingdom of Alexandria.
 - Location: Eastern continent of Valleria, known as the "sun kingdom" for its temperate climate and fertile land.
 - Economy: Largest producer of food and a reliable source of chocobos. Alexandria derives its political power from controlling most of the world's food supply.
 - Farming: Most farms are owned by families and small cooperative initiatives, with farming being culturally ingrained in its population for centuries.
