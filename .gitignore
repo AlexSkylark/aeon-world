@@ -4,9 +4,6 @@ node_modules/
 # Ignore .DS_Store files (for Mac users)
 .DS_Store
 
-# Ignore the output directory
-/output/
-
 merge-markdown.config.js
 package-lock.json
 
