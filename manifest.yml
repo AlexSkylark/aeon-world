@@ -3,4 +3,4 @@ input:
       type: folder
       recursive: true
 output:
-    - file: output/aeon-world.md
+    - file: aeon-world.md
