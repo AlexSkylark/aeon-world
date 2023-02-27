@@ -23,6 +23,7 @@ Table of Contents
     - [Accordia](#accordia)
     - [Alexandria](#alexandria)
     - [Varennia](#varennia)
+  - [Other States and Communities](#other-states-and-communities)
     - [Kassandra](#kassandra)
 - [History](#history)
   - [The Survivor's Chronicle.](#the-survivors-chronicle)
@@ -172,6 +173,8 @@ Table of Contents
 - Airports: Varennia has several large airports that handle domestic and international flights. The airports are connected to the road and rail network.
 - Logistics centers: Varennia has several strategically located logistics centers equipped with modern technology and equipment, including warehousing and distribution facilities.
 - Airships: Varennia uses airships for air transport, with large airship docks in major cities. Airship routes connect major population centers and military installations. Airships are also used for military logistics, transporting troops, supplies, and equipment to remote regions of the country.
+
+## Other States and Communities
 
 ### Kassandra
 
