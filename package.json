@@ -1,0 +1,21 @@
+{
+    "name": "aeon-world",
+    "version": "1.0.0",
+    "description": "Package for the website and documents pertaining to the world of Aeon",
+    "main": "index.html",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AlexSkylark/aeon-world.git"
+    },
+    "author": "Alessandro Arantes",
+    "bugs": {
+        "url": "https://github.com/AlexSkylark/aeon-world/issues"
+    },
+    "homepage": "https://github.com/AlexSkylark/aeon-world#readme",
+    "devDependencies": {
+        "@knennigtri/merge-markdown": "^1.1.0"
+    }
+}

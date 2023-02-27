@@ -1,0 +1,26 @@
+name: Merge Markdown Docs
+
+on:
+    push:
+        branches: [main]
+
+jobs:
+    merge_docs:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v2
+            - name: Install merge-markdown
+              run: npm install -g @knennigtri/merge-markdown
+            - name: Merge docs
+              run: merge-markdown --output output/aeon-world.md --dir ./documents
+            - name: Commit changes
+              run: |
+                  git config --global user.email "alexskylark@gmail.com"
+                  git config --global user.name "alexskylark"
+                  git add aeon-world.md
+                  git commit -m "Merge markdown documents"
+            - name: Push changes
+              uses: ad-m/github-push-action@master
+              with:
+                  github_token: ${{ secrets.GITHUB_TOKEN }}
