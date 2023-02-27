@@ -9,7 +9,7 @@
 - Dragoon Knights: Elite warriors and the greatest honor for Alexandrian citizens. They symbolize positive traits of intelligence, strength, skill in combat, and kindness. Peace-keeping soldiers providing humanitarian aid, fighting injustices, and helping wherever needed.
 - Diplomacy: Alexandrian presence is viewed with suspicion by Varennia and Accordia governments, seen as an Alexandrian attempt at meddling in international affairs. Increasing presence in Accordian continent amid rising political tensions has not gone unnoticed by the southern empire of Accordia.
 
-## Political Structure
+## Politics and Government
 
 - Political System: Absolute monarchy with a king or queen as the head of state and government
 - Succession: Hereditary monarchy, with the crown typically passing to the eldest son or daughter of the monarch, but in the absence of an heir, the crown may pass to another member of the royal family
