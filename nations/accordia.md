@@ -9,7 +9,7 @@
 - Expansionist Policies: Known for its aggressive expansionist policies and disregard for human rights
 - Views on Military Power: Continues to prioritize military power over the safety and well-being of its citizens and those of other nations.
 
-## Political Structure
+## Politics and Government
 
 - Form of Government: Despotic totalitarian empire ruled by a single person, the "eternal emperor"
 - Head of State: Eternal Emperor

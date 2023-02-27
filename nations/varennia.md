@@ -8,7 +8,7 @@
 - Capital City: Varennia, with art deco architecture and "film noir" atmosphere
 - Public service structure: merit-based civil service system with instances of subversion due to backroom deals and corruption
 
-## Political Structure
+## Politics and Government
 
 - Head of state and government: Prime Minister (elected by the Senate)
 - Legislative branch: Senate (members elected through general elections)
