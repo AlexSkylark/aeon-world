@@ -2,7 +2,7 @@ name: Merge Markdown Docs
 
 on:
     push:
-        branches: [main]
+        branches: [master]
 
 jobs:
     merge_docs:
