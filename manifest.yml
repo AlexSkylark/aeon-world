@@ -1,6 +1,0 @@
-input:
-    - path: documents/
-      type: folder
-      recursive: true
-output:
-    - file: aeon-world.md

@@ -10,10 +10,14 @@ jobs:
         steps:
             - name: Checkout code
               uses: actions/checkout@v2
+            - name: Copy documents to input
+              run: |
+                  mkdir input
+                  cp -r documents/* input
             - name: Install merge-markdown
               run: npm install -g @knennigtri/merge-markdown
             - name: Merge docs
-              run: merge-markdown --output output/aeon-world.md --dir ./documents
+              run: merge-markdown -m input/manifest.yml
             - name: Commit changes
               run: |
                   git config --global user.email "alexskylark@gmail.com"
