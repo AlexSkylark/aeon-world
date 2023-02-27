@@ -11,7 +11,10 @@ jobs:
             - name: Checkout code
               uses: actions/checkout@v2
             - name: Copy documents to input
-              run: cp -R ./documents/* ./input
+              run: |
+                  mkdir -p input/
+                  cp -R documents/* input/
+                  find input/ -mindepth 2 -type f -exec mv -i '{}' input/ \;
             - name: Install merge-markdown
               run: npm install -g @knennigtri/merge-markdown
             - name: Merge docs
