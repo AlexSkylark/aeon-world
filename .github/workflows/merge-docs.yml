@@ -15,10 +15,14 @@ jobs:
                   mkdir -p input/
                   cp -R documents/* input/
                   find input/ -mindepth 2 -type f -exec mv -i '{}' input/ \;
+              name: Copy merge-markdown's manifest to input
+              run: cp manifest.yml input/
             - name: Install merge-markdown
               run: npm install -g @knennigtri/merge-markdown
             - name: Merge docs
               run: merge-markdown -m input/manifest.yml
+            - name: Delete input folder
+              run: rm -rf input/
             - name: Commit changes
               run: |
                   git config --global user.email "alexskylark@gmail.com"
