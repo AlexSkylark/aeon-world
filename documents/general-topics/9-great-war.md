@@ -1,6 +1,6 @@
 # The Great War
 
-- The Great War erupts between Varennia, Alexandria, and Accordia.
+- The Great War erupts between Varennia, Alexandria, and Accordia in 870 kH.
 - Year 1-2: Accordian forces make significant gains in the early stages of the war, using their superior technology and tactics to overwhelm their enemies.
 Alexandria falls under Accordian control.
 - Year 3-5: Varennian and Alexandrian forces struggle to push back against Accordia, despite resistance movements within Alexandria.

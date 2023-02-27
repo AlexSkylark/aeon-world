@@ -1,4 +1,4 @@
-# The History of Aeon
+# History
 
 - The world is known as Aeon, but the reason behind the name is unknown.
 - The oldest documented history of the world dates back to about 900-1000 years ago.
