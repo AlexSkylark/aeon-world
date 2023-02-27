@@ -1,6 +1,7 @@
-# aeon-worldbuilding
 
 Welcome to the index file for our worldbuilding sessions! Here you will find links to files containing information about the various factions and countries in the world of **AEON**.
+
+Below you can find some basic info abouu the world
 
 - World name: Aeon
 - Based on JRPGs such as Final Fantasy and Dragon Quest
@@ -17,7 +18,6 @@ Welcome to the index file for our worldbuilding sessions! Here you will find lin
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 Table of Contents
 
-- [The Great War](#the-great-war)
 - [Geography](#geography)
   - [The Three Great Nations](#the-three-great-nations)
     - [Accordia](#accordia)
@@ -30,24 +30,11 @@ Table of Contents
     - [The Elder Times](#the-elder-times)
     - [The Age of Chaos](#the-age-of-chaos)
     - [The Age of Rebuilding](#the-age-of-rebuilding)
-    - [The Great War](#the-great-war-1)
+    - [The Great War](#the-great-war)
     - [The Age of Prosperity](#the-age-of-prosperity)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
   <!-- END auto-update -->
-
-# The Great War
-
-- The Great War erupts between Varennia, Alexandria, and Accordia in 870 kH.
-- Year 1-2: Accordian forces make significant gains in the early stages of the war, using their superior technology and tactics to overwhelm their enemies.
-Alexandria falls under Accordian control.
-- Year 3-5: Varennian and Alexandrian forces struggle to push back against Accordia, despite resistance movements within Alexandria.
-- Year 6-8: The war reaches a stalemate, with none of the major powers able to gain a decisive advantage over the others.
-- Year 9: Moldhar, a peaceful, but very rich vassal state to Varennia that excelled in culture, architecture and arts who was helping Varennia fund the war effort, is bombarded by Accordia until it is completely destroyed. This event becomes known as the "Burning of Moldhar" and causes widespread outrage and condemnation throughout the world.
-- Year 10: The empire's brutal attack on Moldhar galvanizes Alexandrian forces, who manage to rally other nations to their cause and form a powerful alliance against the empire.
-- Year 11-17: The combined forces of Varennia, Alexandria, and their allies, now known as the Global Alliance, manages to push Accordia back to its borders and reclaim Alexandria.
-- Year 18: Despite attempts at negotiations, the war ends in yet another stalemate, with all sides agreeing to a ceasefire and the establishment of Torus as neutral territory.
-- After the war, Alexandria declares itself the "Guardian of the World" and assumes the role of defending freedom and justice, seeking to prevent any future wars like the Great War from occurring.
 
 # Geography
 
@@ -261,7 +248,7 @@ Alexandria falls under Accordian control.
 
 ### The Age of Rebuilding
 
-- The Age of Rebuilding began after the Age of Chaos and lasted until 738 kH.
+- The Age of Rebuilding began after the Age of Chaos and lasted until 870 kH.
 - During this period, the world emerged from the cataclysm and the peoples of Aeon were no longer facing extinction.
 - Cities and settlements grew larger and began to connect through new trade routes, roads, and other types of connections.
 - By 300 kH, most of the biggest settlements in the world had evolved into large city-states and began to enter into conflict with each other for resources and political influence.
@@ -269,11 +256,11 @@ Alexandria falls under Accordian control.
 - Large settlements started banding together or being forcefully annexed to their stronger neighbors, and slowly over the centuries, three of the biggest settlements vastly expanded their sphere of influence and consolidated themselves as the primary state in each of their native continents: Varennia in Othardia, Drakkar in Accordia, and Alexandria in Valleria.
 - As commerce and communication evolved, science also progressed, and many new technologies were created.
 - The three great nations reached a point of equilibrium, where they retained influence over their continents and cooperated through trade and scientific cooperation, achieving peace through an unwritten mutual agreement.
-- However, by the dawn of the seventh century, resources began to run scarce, and thoughts of a war between the three nations were seen as almost certain by 730 kH.
+- However, by the dawn of the seventh century, resources began to run scarce, and thoughts of a war between the three nations were seen as almost certain by 860 kH.
 
 ### The Great War
 
-- The Great War started in 739 kH when the Kingdom of Drakkar was dissolved and turned into the Great Empire of Accordia, a despotic new nation ruled by an "Immortal Emperor" and a number of high-ranking military officers.
+- The Great War started in 870 kH when the Kingdom of Drakkar was dissolved and turned into the Great Empire of Accordia, a despotic new nation ruled by an "Immortal Emperor" and a number of high-ranking military officers.
 - Accordia launched an overwhelming offense, first at the city-state of Torus, a former vassal state of Drakkar and still loyal to its monarchy, and then to the northern continent, Othardia.
 - Alexandria quickly capitulated and was transformed into an imperial protectorate, but Varennia allied itself with the extremely rich and powerful city-state of Moldhar and mounted fierce opposition to imperial advance in its continent.
 - The war lasted for 18 years, with the most relevant event being the Burning of Moldhar, when the emperor launched an attack meant to leave no survivors, bombarding the city by airships for fourteen days and nights without ceasing, and completely razed it to the ground.
@@ -281,7 +268,19 @@ Alexandria falls under Accordian control.
 - Alexandria declared independence and joined the alliance, along with every independent state across Othardia and Valleria.
 - The empire was driven back from the upper continents and the city of Torus was liberated.
 - After losing all the territories it conquered in Othardia and Valleria, the empire was driven back to its original continent at the south, and the ensuing war of attrition ended in a stalemate.
-- A peace treaty was signed in 758 kH at the city of Torus.
+- A peace treaty was signed in 888 kH at the city of Torus.
+- After the war, Alexandria declares itself the "Guardian of the World" and assumes the role of defending freedom and justice, seeking to prevent any future wars like the Great War from occurring.
+
+#### Timeline of the great war
+
+- Year 1-2: Accordian forces make significant gains in the early stages of the war, using their superior technology and tactics to overwhelm their enemies.
+Alexandria falls under Accordian control.
+- Year 3-5: Varennian and Alexandrian forces struggle to push back against Accordia, despite resistance movements within Alexandria.
+- Year 6-8: The war reaches a stalemate, with none of the major powers able to gain a decisive advantage over the others.
+- Year 9: Moldhar, a peaceful, but very rich vassal state to Varennia that excelled in culture, architecture and arts who was helping Varennia fund the war effort, is bombarded by Accordia until it is completely destroyed. This event becomes known as the "Burning of Moldhar" and causes widespread outrage and condemnation throughout the world.
+- Year 10: The empire's brutal attack on Moldhar galvanizes Alexandrian forces, who manage to rally other nations to their cause and form a powerful alliance against the empire.
+- Year 11-17: The combined forces of Varennia, Alexandria, and their allies, now known as the Global Alliance, manages to push Accordia back to its borders and reclaim Alexandria.
+- Year 18: Despite attempts at negotiations, the war ends in yet another stalemate, with all sides agreeing to a ceasefire and the establishment of Torus as neutral territory.
 
 ### The Age of Prosperity
 
