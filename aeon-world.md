@@ -49,6 +49,7 @@ Table of Contents
 
 ### Accordia
 
+- Official Name: The Grand Empire of Accordia
 - Location: Southern region of the world
 - Government: Despotic totalitarian nation ruled by a single person, the "eternal emperor"
 - Society: Contrasting with a noble elite living in comfort and all work being done by a mixture of automatons and marginalized poor; not having a job is a crime; intense cult of personality built around the figure of the emperor; lower classes are educated to erase their sense of individuality
@@ -94,6 +95,7 @@ Table of Contents
 
 ### Alexandria
 
+- Official Name: The Kingdom of Alexandria.
 - Location: Eastern continent of Valleria, known as the "sun kingdom" for its temperate climate and fertile land.
 - Economy: Largest producer of food and a reliable source of chocobos. Alexandria derives its political power from controlling most of the world's food supply.
 - Farming: Most farms are owned by families and small cooperative initiatives, with farming being culturally ingrained in its population for centuries.
