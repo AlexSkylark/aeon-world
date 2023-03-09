@@ -1,7 +1,7 @@
 
 Welcome to the index file for our worldbuilding sessions! Here you will find links to files containing information about the various factions and countries in the world of **AEON**.
 
-Below you can find some basic info abouu the world
+First, I wanna give you some basic info about the world
 
 - World name: Aeon
 - Based on JRPGs such as Final Fantasy and Dragon Quest
