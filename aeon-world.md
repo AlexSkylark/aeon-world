@@ -25,6 +25,8 @@ Table of Contents
     - [Varennia](#varennia)
   - [Other States and Communities](#other-states-and-communities)
     - [Kassandra](#kassandra)
+    - [Aequinox](#aequinox)
+    - [The Battle of South Sector](#the-battle-of-south-sector)
 - [History](#history)
   - [The Survivor's Chronicle.](#the-survivors-chronicle)
   - [Historical Ages](#historical-ages)
@@ -210,6 +212,62 @@ Table of Contents
 - The queen and council of wise women are also responsible for ensuring that Kassandra's isolationist policies are upheld and that outsiders are not allowed to interfere in the community's affairs.
 - There are smaller councils within each clan that are responsible for managing the day-to-day affairs of the clan.
 - Decision-making in Kassandra is based on a consensus model, with the queen and council of wise women seeking input from all members of the community before making major decisions.
+
+### Aequinox
+
+- The Aequinoxians are an elder race of beings from the world before the cataclysm.
+- They live on a fleet of massive ships that orbit the world of Aeon.
+- Their ships are cloaked by a magitek field that keeps them from being observed from the planet.
+- Possess an advanced level of technology that is powered by Aether, the life force of the universe.
+- Value knowledge and education
+- Each ship of the fleet is assigned a specific purpose such as education, manufacturing, energy production, residential living, or communications.
+- Governed by an overseeing council made up of representatives from each ship.
+- Have a highly organized society centered around their ships.
+- Practice an egalitarian, communist and collectivist system, with resources and goods being distributed equally among all members.
+- Strong belief in the importance of family and community
+- Possess a deep respect for nature and the planet, having a deep connection to the Aether and using it to power their technology
+- Have a long-standing tradition of pacifism and non-intervention in the affairs of the world below.
+- Once meant to be the shepherds and guides for the survivors of the cataclysm, but have since isolated themselves and became passive in their role.
+- Became too focused on developing their own society and eventually isolated themselves from the world below
+
+#### The Summoners
+
+- The Summoners are a highly trained defense and security body of the Aequinoxian society.
+- They are skilled martial artists adept in an alternate form of magic that uses raw Aether instead of elemental magic.
+- Summoners make a pact with a creature of the Aether upon finishing their training, and that Eikon becomes their companion for life.
+- To communicate with and summon their Eikon, Summoners need a material focus in the form of a crystal horn that only the Aequinoxians have the technology to manufacture.
+- The Eikons are creatures of pure Aether that were forced to abandon the planet due to the widespread use of Magitek during the cataclysm.
+- The Summoners are able to manifest their Eikons in the material world using their crystal horn as a conduit.
+- The Summoners and their Eikons have immense power and can go toe-to-toe with dozens of soldiers from the world below.
+- The order of Summoners is tasked with monitoring the World of Aeon below and keeping it safe, but rarely intervene, taking more the role of observers.
+- Entry into the order of the Summoners is granted to those who excel the most during their formative educational period.
+
+#### The Aequinoxian Myths
+
+The info below is not taken as hard truth by the Aequinoxians, instead being the basis of their religious faith.
+
+- The Eikons used to walk among the peoples of the world before the cataclysm.
+- The cataclysm was caused by the indiscriminate use of Magitek that nearly depleted the world's Aether, causing the Eikons to abandon the planet.
+- The Aequinoxians are supposedly the people who answered the call of the Eikons to take refuge with them during the cataclysm.
+- The summoners' purpose is to prepare and develop for the day when Aeon's Aetheric levels are brought to what they were prior to the cataclysm, when the Eikons will return to rule the world.
+- Their ultimate goal as the chosen people of the Eikons is to serve as their heralds and intermediaries upon the return of the Eikons.
+### The Battle of South Sector
+
+The Summoners of Aequinox were deeply concerned about the empire of Accordia's new interest in Magitek technology. They knew firsthand the dangers of such technology, as they believed it to be the cause of the near-destruction of the planet in the past cataclysm. Kardion Sorento, a skilled Summoner, was selected to lead a team of operatives to infiltrate the empire and collect information about their research.
+
+Kardion's team consisted of his wife, Ariana Sorento, a talented researcher, Faralis Karen, his best friend and comrade-in-arms, and Renna Lenard, an experienced summoner and military strategist. The team infiltrated the empire's capital city of Nexus and managed to blend in with the populace. They quickly discovered that the empire's Magitek research was just nascent, but they also discovered that the empire was planning to use the technology for military purposes. 
+
+During their mission, Kardion and Ariana conceive a child, who is born in Accordia. As they plan their return, the team retrieves valuable data on the empire's magitek research program. They just found evidence that the main purpose of the project was to develop advanced weaponry to wage war on the entire world as they did once a century ago. 
+
+Kardion and the others come to the conclusion that the empire is relentless and inflexible in the political sphere, and that the only way to halt the empire's development of magitek would be by force, destroying all research data and samples on the subject, along with the entire scientific facility where Magitek was being researched. However, Aequinox would never approve taking direct action against an empire from the world below, as their current stance was to be mere observers in preparation for the future. As such, the four of them were the only ones capable of executing such a dangerous mission, and they would be alone in that decision, without support from Aequinox. The other three were hesitant at first, knowing the risks and the consequences, but they eventually agreed that it was the right thing to do. They knew that it would be a difficult task, and they all understood the risks involved.
+
+Ariana loved her baby boy dearly, but she also knew that the mission was too important to pass up. She arranged for a trusted couple to care for her son while she and the others went on their mission. They promised to return for the baby as soon as the mission was completed.
+
+They carefully planned their attack and were successful in infiltrating the facility. However, as they were planting explosives, they were discovered by the Accordian military. Without other choice, the summoners saw themselves forced to call upon their Eikons. They succeeded in destroying most of the military base, but that provoked a maximum response from the empire, who sent the full might of their military upon them, including their battleships and artilleries. Kardion knew that he was the only one who could buy them time to escape. As the rest of the team fled, Kardion stayed behind to face the Accordian forces head-on, buying his comrades the time they needed to escape. The team then sent a distress signal to Aequinox for an emergency extraction, and were planning to pick up Ariana's child on their way, but she was gravely wounded during the escape, leaving Faralis and Renna to take the difficult decision of bringing Ariana back to Aequinox as quickly as possible, as her life was in grave danger and she needed urgent medical attention. So, they flee for Aequinox, leaving the baby behind.
+
+Despite the destruction of the facility and Kardion's heroic sacrifice, Accordia was able to recover much of what they had lost in Magitek research. When Kardion's body was found, the technology and equipment he was wearing were recovered and analyzed. The Accordians were able to rebuild the Magitek project and use it to advance their research much quicker than they would have been able to otherwise, setting them on a path to become even more powerful than before. Despite the sacrifices made by the team, their mission ultimately failed to achieve its goal.
+
+The team's failure was a devastating blow to all people involved, but Faralis was the one who took it the hardest. He was already a critic of the path of isolation and passiveness taken by the Aequinoxians, but the episode, his complete and utter failure, and his best friend dying in vain, all of this ultimately sent him over the edge. He got determined to spur his people into action. Promising to do whatever it takes to make Aequinox take an active role in the world of Aeon, even if he had to do it alone, he took this vow, screamed Kardion's name to the stars above as a symbol of his resolve.
 
 # History
 
