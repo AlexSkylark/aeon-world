@@ -13,6 +13,7 @@ The supreme leader of the summoner Tribe.
 
 `AC:` 30 -- Touch 17, flat-footed 27 (+9 Armor, +5 deflection, +3
 Natural, +2 Dodge, +1 Eidolon)
+
 `HP:` 156 (16d8+64)
 
 `Fort:` +13, `Ref:` +11, `Will:` +23
