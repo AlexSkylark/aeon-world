@@ -55,8 +55,7 @@ Transposition, Greater Shield Ally, Life Bond
 `1st-level:` Life Conduit, Gravity Well, Expeditious Retreat, Feather
 Fall, Unfetter
 
-`2nd-level:` Shooting Star, Twisted Space,#####*
-Levitate, Stardust, Create Pit
+`2nd-level:` Shooting Star, Twisted Space, Levitate, Stardust, Create Pit
 
 `3rd-level:` Hold Person, Blink,
 Fly, Haste, Slow
