@@ -9,14 +9,14 @@ Traitor to the summoner tribe, nemesis of Faralis Karen
 
 **Senses:** Perception +6 
 
-## Defense Stats 
+### Defense Stats 
 **AC:** 28 -- Touch 17, flat-footed 27 (+9 Armor, +5 deflection, +3 Natural, +1 Eidolon)
 
 **HP:** 124 (16d8+32)
 
 **Fort:** +12, **Ref:** +11, **Will:** +23
  
-## Offense Stats
+### Offense Stats
  
 **Speed:** 9m.
 
@@ -24,7 +24,7 @@ Traitor to the summoner tribe, nemesis of Faralis Karen
 
 **Space:** 1,5m.; **Reach:** 1,5m.
  
-## Statistics
+### Statistics
  
 **Str** 10, **Dex** 12, **Con** 14, **Int** 14, **Wis** 26, **Cha** 16
 
@@ -34,14 +34,14 @@ Traitor to the summoner tribe, nemesis of Faralis Karen
  
  **Skills:** Fly (+20), Perception (+8), Spellcraft (+21), Knowledge (Eidolons) (+13), Knowledge (Arcana) (+13), Use Magic Item (+14)
  
-## Feats
+### Feats
 
 Augment Summoning, Expanded Arcana, Quicken Spell 
 
-## Class Features 
+### Class Features 
 Summon Eidolon, Life Link, Bond Senses, Shield Ally, Maker's Call, Transposition, Greater Shield Ally, Life Bond
 
-## Spells
+### Spells
 
 **1st-level:** Life Conduit,
 Gravity Well, Expeditious Retreat, Feather Fall, Unfetter
@@ -61,7 +61,7 @@ Overland Flight, Teleport
  **6th-level:** Ice Crystal
 Teleport, Walk Through Space, Reverse Gravity
 
-## Equipment
+### Equipment
 
 - +5 Chain Shirt w/ Energy Resistance (fire), - 43.250 gp 
 - Ring of Protection +5 - 50.000 gp 
@@ -81,7 +81,7 @@ Huge Eidolon, Outsider, Magic
 
 **Senses:** Perception +15 
 
-## Defense Stats
+### Defense Stats
 
 **AC:** 29, **Touch:** 10, **Flat-footed:** 27 (+14 armor, +5 natural, -2 size, +2 Dodge)
  
@@ -91,7 +91,7 @@ Huge Eidolon, Outsider, Magic
 
 **Special:** Spell Resistance 26; Immunity to Ice/Cold; Damage Reduction 5/Lawful 
 
-## Offense Stats
+### Offense Stats
 
 **Speed:** 9m.
 
@@ -99,7 +99,7 @@ Huge Eidolon, Outsider, Magic
 
 **Space:** XX ft.; **Reach:** 4,5m. 
 
-## Statistics
+### Statistics
 
 **Str** 35, **Dex** 19, **Con** 22, **Int** 12, **Wis** 10, **Cha** 10
  
