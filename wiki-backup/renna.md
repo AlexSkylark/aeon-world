@@ -6,41 +6,47 @@ Traitor to the summoner tribe, nemesis of Faralis Karen
 **Senses:** Perception +6 == Defense
 Stats == **AC:** 28 -- Touch 17, flat-footed 27 (+9 Armor, +5
 deflection, +3 Natural, +1 Eidolon)
- **HP:** 124
+**HP:** 124
 (16d8+32)
  **Fort:** +12, **Ref:** +11, **Will:**
 +23
  == Offense Stats == **Speed:** 9m.
 
-**Melee:** Longsword +17/+12/+7 (1d8+5 + 1d6 Flaming) - Critical 17-20
-x2 (+1d10 dmg Flaming)
- **Space:** 1,5m.; **Reach:**
-1,5m.
- == Statistics == **Str** 10, **Dex** 12,
+**Melee:** Longsword +17/+12/+7 (1d8+5 + 1d6 Flaming) - Critical 17-20x2 (+1d10 dmg Flaming)
+**Space:** 1,5m.; **Reach:** 1,5m.
+ 
+== Statistics == 
+ 
+**Str** 10, **Dex** 12,
 **Con** 14, **Int** 14, **Wis** 26, **Cha** 16
 
 **Base Atk:** +12/+7/+2; **CMB:** +12; **CMD:** 19
 
-**MP:** 115; **Spell Bonus:** +24; **Spell DC:**
-18+lvl;
- **Skills:** Fly (+20), Perception (+8),
-Spellcraft (+21), Knowledge (Eidolons) (+13), Knowledge (Arcana) (+13),
-Use Magic Item (+14)
- == Feats == Augment Summoning,
-Expanded Arcana, Quicken Spell == Class Features == Summon Eidolon, Life
-Link, Bond Senses, Shield Ally, Maker's Call, Transposition, Greater
-Shield Ally, Life Bond == Spells == **1st-level:** Life Conduit,
+**MP:** 115; **Spell Bonus:** +24; **Spell DC:** 18+lvl;
+ 
+ **Skills:** Fly (+20), Perception (+8), Spellcraft (+21), Knowledge (Eidolons) (+13), Knowledge (Arcana) (+13), Use Magic Item (+14)
+ 
+ == Feats == 
+
+Augment Summoning, Expanded Arcana, Quicken Spell == Class Features == Summon Eidolon, Life
+Link, Bond Senses, Shield Ally, Maker's Call, Transposition, Greater Shield Ally, Life Bond 
+
+== Spells == 
+**1st-level:** Life Conduit,
 Gravity Well, Expeditious Retreat, Feather Fall, Unfetter
 
 **2nd-level:** Shooting Star, Twisted Space, Levitate, Stardust,
 Create Pit
+
  **3rd-level:** Hold Person, Blink, Fly,
 Haste, Slow
+
  **4th-level:** Dimension Door, Scrying,
 Greater Evolution Surge, Purified Calling
 
 **5th-level:** Hostile Juxtaposition, Greater Rejuvenate Eidolon,
 Overland Flight, Teleport
+
  **6th-level:** Ice Crystal
 Teleport, Walk Through Space, Reverse Gravity
 
