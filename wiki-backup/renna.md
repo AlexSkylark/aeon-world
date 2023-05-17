@@ -89,7 +89,7 @@ Huge Eidolon, Outsider, Magic
 
 **Fort:** +11, **Ref:** +13, **Will:** +9
 
-**Special:** Spell Resistance 26; Immunity to Fire; Damage Reduction 5/Lawful 
+**Special:** Spell Resistance 26; Immunity to Ice/Cold; Damage Reduction 5/Lawful 
 
 ## Offense Stats
 
