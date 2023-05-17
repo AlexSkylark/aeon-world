@@ -1,6 +1,6 @@
 FARALIS KAREN 
 
-##### Description
+### Description
 
 Aequinoxian Summoner, Lvl 16
 
@@ -9,7 +9,7 @@ The supreme leader of the summoner Tribe.
 `'Init`': +1
 `'Senses:`' Perception +6
 
-##### Defense Stats
+### Defense Stats
 
 `'AC:`' 30 -- Touch 17, flat-footed 27 (+9 Armor, +5 deflection, +3
 Natural, +2 Dodge, +1 Eidolon)
@@ -19,7 +19,7 @@ Natural, +2 Dodge, +1 Eidolon)
 
 `'Spell Resistance: 17`'
 
-##### Offense Stats
+### Offense Stats
 
 `'Speed:`' 9m.
 `'Melee:`' Longsword +17/+12/+7 (1d8+5 + 1d6
@@ -28,7 +28,7 @@ Flaming) - Critical 17-20 x2 (+1d10 dmg Flaming)
 1,5m.; `'Reach:`' 1,5m.
 
 
-##### Statistics
+### Statistics
 
 `'Str`' 14, `'Dex`' 12, `'Con`' 16, `'Int`' 15, `'Wis`' 26, `'Cha`' 16
 `'Base Atk:`' +12/+7/+2; `'CMB:`' +8; `'CMD:`' 18
@@ -39,21 +39,21 @@ Flaming) - Critical 17-20 x2 (+1d10 dmg Flaming)
 (Eidolons) (+13), Knowledge (Arcana) (+13), Use Magic Item (+14)
 
 
-##### Feats
+### Feats
 
 Dodge, Mobility, Spring Attack, Weapon Proficiency (Longsword), Augment
 Summoning, Expanded Arcana, Quicken Spell, Toughness
 
-##### Class Features
+### Class Features
 
 Summon Eidolon, Life Link, Bond Senses, Shield Ally, Maker's Call,
 Transposition, Greater Shield Ally, Life Bond
 
-##### Spells
+### Spells
 
 `'1st-level:`' Life Conduit, Gravity Well, Expeditious Retreat, Feather
 Fall, Unfetter
-`'2nd-level:`' Shooting Star, Twisted Space,
+`'2nd-level:`' Shooting Star, Twisted Space,#####*
 Levitate, Stardust, Create Pit
 `'3rd-level:`' Hold Person, Blink,
 Fly, Haste, Slow
@@ -64,16 +64,26 @@ Juxtaposition, Greater Rejuvenate Eidolon, Overland Flight, Teleport\<br
 /> `'6th-level:`' Ice Crystal Teleport, Walk Through Space, Reverse
 Gravity
 
-##### Equipment
+### Equipment
 
-* +3 Keen Flaming Burst Longsword - 72.315 gp * +5 Chain Shirt, SR 17
-(+4), - 81.250 gp * Ring of Protection +5 - 50.000 gp * Amulet of
-Natural Armor +3 - 18.000 gp * Belt of Mighty Constitution +4 - 16.000
-gp * Circlet of Inspired Wisdom +6 - 36.000 gp * Bracers of Giant
-Strength +4 - 16.000 gp * Cloak of Resistance +5 - 12.500 gp
 
-* Potion of Restoration - 1.400 gp * 2x Potion of Lesser Restoration -
-600 gp * Potion of Curaga (110 HP) - 3.300 gp
+* +3 Keen Flaming Burst Longsword - 72.315 gp 
+* +5 Chain Shirt, SR 17
+(+4), - 81.250 gp 
+* Ring of Protection +5 - 50.000 gp 
+* Amulet of
+Natural Armor +3 - 18.000 gp 
+* Belt of Mighty Constitution +4 - 16.000
+gp 
+* Circlet of Inspired Wisdom +6 - 36.000 gp 
+* Bracers of Giant
+Strength +4 - 16.000 gp 
+* Cloak of Resistance +5 - 12.500 gp
+
+* Potion of Restoration - 1.400 gp 
+* 2x Potion of Lesser Restoration -
+600 gp 
+* Potion of Curaga (110 HP) - 3.300 gp
 
 # Ifrit 
 Huge Eidolon, Outsider, Magic
@@ -84,7 +94,7 @@ Ifrit, the fire god, lord of flames and scorching fire.
 
 `'Senses:`' Perception +15
 
-##### Defense Stats
+### Defense Stats
 
 `'AC:`' 25, `'Touch:`' 11, `'Flat-footed:`' 9 (+19 natural, -2 size, +4
 dodge)
@@ -96,7 +106,7 @@ dodge)
 `'Special:`' Spell Resistance 26; Immunity to Fire;
 Damage Reduction 5/Lawful
 
-##### Offense Stats
+### Offense Stats
 
 `'Speed:`' 9m.
 
@@ -109,7 +119,7 @@ Frightful Presence - DC 19;
 `'Space:`' XX ft.; `'Reach:`'
 4,5m.
 
-##### Statistics
+### Statistics
 
 `'Str`' 40, `'Dex`' 17, `'Con`' 22, `'Int`' 10, `'Wis`' 10, `'Cha`'
 10
