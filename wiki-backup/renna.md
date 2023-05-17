@@ -36,7 +36,10 @@ Traitor to the summoner tribe, nemesis of Faralis Karen
  
 ## Feats
 
-Augment Summoning, Expanded Arcana, Quicken Spell == Class Features == Summon Eidolon, Life Link, Bond Senses, Shield Ally, Maker's Call, Transposition, Greater Shield Ally, Life Bond 
+Augment Summoning, Expanded Arcana, Quicken Spell 
+
+## Class Features 
+Summon Eidolon, Life Link, Bond Senses, Shield Ally, Maker's Call, Transposition, Greater Shield Ally, Life Bond
 
 ## Spells
 
