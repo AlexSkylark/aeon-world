@@ -54,15 +54,20 @@ Transposition, Greater Shield Ally, Life Bond
 
 `1st-level:` Life Conduit, Gravity Well, Expeditious Retreat, Feather
 Fall, Unfetter
+
 `2nd-level:` Shooting Star, Twisted Space,#####*
 Levitate, Stardust, Create Pit
+
 `3rd-level:` Hold Person, Blink,
 Fly, Haste, Slow
+
 `4th-level:` Dimension Door, Scrying, Greater
 Evolution Surge, Purified Calling
+
 `5th-level:` Hostile
-Juxtaposition, Greater Rejuvenate Eidolon, Overland Flight, Teleport\<br
-/> `6th-level:` Ice Crystal Teleport, Walk Through Space, Reverse
+Juxtaposition, Greater Rejuvenate Eidolon, Overland Flight, Teleport
+
+`6th-level:` Ice Crystal Teleport, Walk Through Space, Reverse
 Gravity
 
 ### Equipment
