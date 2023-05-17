@@ -1,4 +1,4 @@
-FARALIS KAREN 
+# FARALIS KAREN 
 
 ### Description
 
@@ -66,26 +66,20 @@ Gravity
 
 ### Equipment
 
-
 * +3 Keen Flaming Burst Longsword - 72.315 gp 
-* +5 Chain Shirt, SR 17
-(+4), - 81.250 gp 
+* +5 Chain Shirt, SR 17 (+4), - 81.250 gp 
 * Ring of Protection +5 - 50.000 gp 
-* Amulet of
-Natural Armor +3 - 18.000 gp 
-* Belt of Mighty Constitution +4 - 16.000
-gp 
+* Amulet of Natural Armor +3 - 18.000 gp 
+* Belt of Mighty Constitution +4 - 16.000 gp 
 * Circlet of Inspired Wisdom +6 - 36.000 gp 
-* Bracers of Giant
-Strength +4 - 16.000 gp 
+* Bracers of Giant Strength +4 - 16.000 gp 
 * Cloak of Resistance +5 - 12.500 gp
-
 * Potion of Restoration - 1.400 gp 
-* 2x Potion of Lesser Restoration -
-600 gp 
+* 2x Potion of Lesser Restoration - 600 gp 
 * Potion of Curaga (110 HP) - 3.300 gp
 
 # Ifrit 
+
 Huge Eidolon, Outsider, Magic
 
 Ifrit, the fire god, lord of flames and scorching fire.
