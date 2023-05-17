@@ -3,14 +3,18 @@ Description == Aequinoxian Summoner, Lvl 16
 Traitor to the summoner tribe, nemesis of Faralis Karen
 
 **Init**: +1
+
 **Senses:** Perception +6 == Defense
-Stats == **AC:** 28 -- Touch 17, flat-footed 27 (+9 Armor, +5
-deflection, +3 Natural, +1 Eidolon)
-**HP:** 124
-(16d8+32)
- **Fort:** +12, **Ref:** +11, **Will:**
-+23
- == Offense Stats == **Speed:** 9m.
+
+Stats == **AC:** 28 -- Touch 17, flat-footed 27 (+9 Armor, +5 deflection, +3 Natural, +1 Eidolon)
+
+**HP:** 124 (16d8+32)
+
+**Fort:** +12, **Ref:** +11, **Will:** +23
+ 
+== Offense Stats == 
+ 
+**Speed:** 9m.
 
 **Melee:** Longsword +17/+12/+7 (1d8+5 + 1d6 Flaming) - Critical 17-20x2 (+1d10 dmg Flaming)
 **Space:** 1,5m.; **Reach:** 1,5m.
@@ -28,10 +32,10 @@ deflection, +3 Natural, +1 Eidolon)
  
  == Feats == 
 
-Augment Summoning, Expanded Arcana, Quicken Spell == Class Features == Summon Eidolon, Life
-Link, Bond Senses, Shield Ally, Maker's Call, Transposition, Greater Shield Ally, Life Bond 
+Augment Summoning, Expanded Arcana, Quicken Spell == Class Features == Summon Eidolon, Life Link, Bond Senses, Shield Ally, Maker's Call, Transposition, Greater Shield Ally, Life Bond 
 
 == Spells == 
+
 **1st-level:** Life Conduit,
 Gravity Well, Expeditious Retreat, Feather Fall, Unfetter
 
@@ -51,8 +55,7 @@ Overland Flight, Teleport
 Teleport, Walk Through Space, Reverse Gravity
 
 == Equipment == 
-- +5 Chain Shirt w/ Energy Resistance (fire), - 43.250
-gp 
+- +5 Chain Shirt w/ Energy Resistance (fire), - 43.250 gp 
 - Ring of Protection +5 - 50.000 gp 
 - Amulet of Natural Armor +3 -
 18.000 gp 
@@ -64,6 +67,7 @@ gp
 - Potion of Curaga (110 HP) - 3.300 gp
 
 = Shiva = 
+
 Huge Eidolon, Outsider, Magic
 
 **Init**: +4
